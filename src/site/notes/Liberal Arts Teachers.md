@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/liberal-arts-teachers/","created":"2025-06-22T16:27:46.780-04:00","updated":"2025-06-22T16:31:12.473-04:00"}
+{"dg-publish":true,"permalink":"/liberal-arts-teachers/","tags":["Catherine-Original"],"created":"2025-06-22T16:27:46.780-04:00","updated":"2025-06-22T17:27:16.278-04:00"}
 ---
 
 Persons who throughout history have revived and promulgated the study of the [[Seven Liberal Arts\|Seven Liberal Arts]].
