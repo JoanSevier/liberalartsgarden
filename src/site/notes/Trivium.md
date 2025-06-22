@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/trivium/"}
+{"dg-publish":true,"permalink":"/trivium/","created":"2025-06-22T16:08:20.148-04:00","updated":"2025-06-22T16:24:10.266-04:00"}
 ---
 
 Three of the [[Seven Liberal Arts\|Seven Liberal Arts]] that are devoted to literacy, or the study of language, and thereby the gateway to all other learning.

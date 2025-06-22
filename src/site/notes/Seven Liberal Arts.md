@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/seven-liberal-arts/"}
+{"dg-publish":true,"permalink":"/seven-liberal-arts/","created":"2025-06-22T16:06:39.721-04:00","updated":"2025-06-22T16:22:37.442-04:00"}
 ---
 
 A collection of interrelated disciplines condensed from late-antique Roman culture. Considered to be the fields of learning appropriate to the formation of free individuals.
