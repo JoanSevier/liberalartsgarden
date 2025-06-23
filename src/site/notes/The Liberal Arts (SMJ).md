@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-liberal-arts-smj/","tags":["Sister-Miriam-Joseph"],"created":"2025-06-22T20:22:29.349-04:00","updated":"2025-06-22T20:47:05.992-04:00"}
+{"dg-publish":true,"permalink":"/the-liberal-arts-smj/","tags":["Sister-Miriam-Joseph"],"created":"2025-06-22T20:22:29.349-04:00","updated":"2025-06-23T09:36:44.342-04:00"}
 ---
 
 Chapter 1 of [[The Trivium (SMJ)\|The Trivium (SMJ)]] by [[Sister Miriam Joseph\|Sister Miriam Joseph]]. It serves as an introduction to the concept of the [[Seven Liberal Arts\|Seven Liberal Arts]] in general.
@@ -49,3 +49,12 @@ Education in the trivium trains the mind to study the sum of reality.
 The arts of language are normative, in that they seek to regulate, rather than speculative, seeking only to know.
 
 Correctness is the norm of Grammar, Effectiveness is the norm of Rhetoric, and Truth is the norm of Logic.
+
+## Cat’s Notes
+Sister Joseph makes some interesting moves in setting up the scaffolding of the Liberal Arts. 
+
+She is very explicitly metaphysical, even in the realm of Grammar, which is not only about “symbols” but about “things-as-they-are-symbolized.” The Trivium, then, seems to be the practical science of [[Semiotics\|Semiotics]]. It is not evident that Joseph was familiar with the work of [[Charles Sanders Peirce\|Charles Sanders Peirce]] but there is clearly a possibility of conceptual connection, especially where she points to the possibility of speculative sciences.
+
+Most schemes of the Liberal Arts treat the Quadrivium somewhat differently. Whereas these schemes treat the Quadrivial arts as inflections of the art of number according to space and time (arithmetic is pure number, geometry is number-plus-space, music is number-plus-time, and astronomy is number-plus-time-and-space), Sister Joseph instead distinguishes between number (discrete quantity) and space (continuous quantity) and organizes the Arts in these terms. Many framings of the Quadrivium order the arts in different ways, so this is a worthwhile perspective.
+
+Among the authors closer to the etymological development of the term “grammar,” it was more common to treat Grammar as primarily or even exclusively about written language. Sister Joseph makes an even distinction between written and spoken language within Grammar, and this is to be preferred today in my opinion.
