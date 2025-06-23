@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-liberal-arts-smj/","tags":["Sister-Miriam-Joseph"],"created":"2025-06-22T20:22:29.349-04:00","updated":"2025-06-22T20:45:23.281-04:00"}
+{"dg-publish":true,"permalink":"/the-liberal-arts-smj/","tags":["Sister-Miriam-Joseph"],"created":"2025-06-22T20:22:29.349-04:00","updated":"2025-06-22T20:47:05.992-04:00"}
 ---
 
 Chapter 1 of [[The Trivium (SMJ)\|The Trivium (SMJ)]] by [[Sister Miriam Joseph\|Sister Miriam Joseph]]. It serves as an introduction to the concept of the [[Seven Liberal Arts\|Seven Liberal Arts]] in general.
@@ -46,6 +46,6 @@ Education in the trivium trains the mind to study the sum of reality.
 		4. Rhetoric prescribes how to combine sentences into paragraphs and paragraphs into a whole composition having unity, coherence, and the desired emphasis, as well as clearness, force, and beauty.
 		5. Logic prescribes how to combine concepts into judgments and judgments into syllogisms and chains of reasoning so as to achieve truth.
 
-The arts of language are normative in that they seek to regulate rather than speculative in seeking only to know.
+The arts of language are normative, in that they seek to regulate, rather than speculative, seeking only to know.
 
 Correctness is the norm of Grammar, Effectiveness is the norm of Rhetoric, and Truth is the norm of Logic.
